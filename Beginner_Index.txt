@@ -1,0 +1,30 @@
+MODULE 2
+Approx. 4 weeks
+Classes Completed
+Introduction to Programming (Beginner)
+Beginner: Input & Output
+DAY 6, 23 JUN
+Beginner: If-Else
+DAY 7, 25 JUN
+Beginner: While Loop
+DAY 8, 28 JUN
+Beginner: For Loop
+DAY 9, 30 JUN
+Beginner: Patterns - 1
+DAY 10, 2 JUL
+Beginner : Patterns - 2
+DAY 11, 5 JUL
+Beginner : Functions
+DAY 12, 7 JUL
+Beginner : 1D Arrays
+DAY 13, 9 JUL
+Beginner : 1D Arraylists
+DAY 14, 12 JUL
+Beginner : 2D Arrays
+DAY 15, 14 JUL
+Beginner : 2D Arraylists
+DAY 16, 16 JUL
+Beginner : Strings
+DAY 17, 18 JUL
+Beginner : Coding Contest
+DAY 18, 19 JUL

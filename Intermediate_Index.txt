@@ -1,0 +1,62 @@
+MODULE 3
+Approx. 8 weeks
+Classes Completed
+Programming Constructs (Intermediate)
+Intermediate DSA : Introduction to Problem Solving
+DAY 19, 26 JUL
+Intermediate DSA : Time Complexity - 1
+DAY 20, 28 JUL
+Intermediate DSA : Time Complexity - 2
+DAY 21, 30 JUL
+Intermediate DSA : Introduction to Arrays
+DAY 22, 2 AUG
+Intermediate DSA : Arrays - Prefix Sum - 1
+DAY 23, 4 AUG
+Intermediate DSA : Arrays - Carry Forward
+DAY 24, 6 AUG
+Intermediate DSA : Arrays : Subarrays
+DAY 25, 9 AUG
+Intermediate DSA : Arrays : 2D Matrices
+DAY 26, 11 AUG
+Intermediate DSA : Arrays : Interview Problems
+DAY 27, 13 AUG
+Intermediate DSA : Problem solving session - 1
+Optional Class
+14 AUG
+Intermediate DSA : Bit Manipulations - 1
+DAY 28, 16 AUG
+Intermediate DSA : Bit Manipulations - 2
+DAY 29, 18 AUG
+Intermediate DSA : Bit Manipulation 3
+DAY 30, 20 AUG
+Intermediate DSA : Maths - Modular Arithmetic Introduction
+DAY 31, 23 AUG
+Intermediate DSA : Arrays & Maths
+DAY 32, 25 AUG
+Intermediate DSA : Sorting
+DAY 33, 27 AUG
+Intermediate DSA : Problem solving session 2
+Optional Class
+28 AUG
+Intermediate DSA : Strings
+DAY 34, 30 AUG
+Intermediate DSA : Hashing - 1
+DAY 35, 1 SEP
+Academy Intermediate DSA : Contest 1
+DAY 36, 2 SEP
+Intermediate DSA : Hashing - 2
+DAY 37, 3 SEP
+Intermediate DSA : Recursion - 1
+DAY 38, 6 SEP
+Intermediate DSA : Recursion - 2
+DAY 39, 8 SEP
+Intermediate DSA : Linked List Basics
+DAY 40, 10 SEP
+Intermediate DSA: Problem Solving
+Optional Class
+11 SEP
+Intermediate DSA : Trees Basics
+DAY 41, 13 SEP
+Intermediate DSA : Problem Solving Session
+Optional Class
+17 SEP
